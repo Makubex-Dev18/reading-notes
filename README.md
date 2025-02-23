@@ -26,3 +26,5 @@ Mi objetivo como desarrollador es mejorar continuamente mis habilidades en progr
 [Linkedin](www.linkedin.com/in/luis-roman-huanca)
 
 [GitHub](https://github.com/Makubex-Dev18)
+
+[Wordpress](https://macheloide.wordpress.com/)
