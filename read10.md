@@ -4,7 +4,7 @@
 
 El **control de flujo** en JavaScript define el orden en que se ejecutan las instrucciones de un programa. Puede modificarse con estructuras como condicionales y bucles.
 
-### **Ejemplo con `if-else`**
+ **Ejemplo con `if-else`**
 ```javascript
 let temperatura = 25;
 
