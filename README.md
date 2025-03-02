@@ -6,6 +6,8 @@ Soy una persona competitivia y curiosa , con grandes cosas a hacer
 
 
 ## Tabla de Contenido  
+0.[read07](https://github.com/Makubex-Dev18/reading-notes/blob/main/read07.md)
+
 1. [Introducción](#introducción)  
 2. [Visión de Crecimiento](#visión-de-crecimiento)  
 3. [Notas Futuras](#notas-futuras)  
