@@ -1,4 +1,4 @@
-# Luis Augusto Roman
+# **Luis Augusto Roman**
 Soy una persona competitivia y curiosa , con grandes cosas a hacer
 
 
@@ -6,7 +6,8 @@ Soy una persona competitivia y curiosa , con grandes cosas a hacer
 
 
 ## Tabla de Contenido  
-0.[read07](https://github.com/Makubex-Dev18/reading-notes/blob/main/read07.md)
+0. [read08](https://github.com/Makubex-Dev18/reading-notes/blob/main/read08.md)
+0. [read07](https://github.com/Makubex-Dev18/reading-notes/blob/main/read07.md)
 
 1. [Introducción](#introducción)  
 2. [Visión de Crecimiento](#visión-de-crecimiento)  
