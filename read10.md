@@ -1,6 +1,6 @@
 # Preguntas
 
-## 1. ¿Qué es "Control Flow" (Control de Flujo)?
+1. ¿Qué es "Control Flow" (Control de Flujo)?
 
 El **control de flujo** en JavaScript define el orden en que se ejecutan las instrucciones de un programa. Puede modificarse con estructuras como condicionales y bucles.
 
