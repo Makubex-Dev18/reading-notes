@@ -5,7 +5,8 @@ Soy una persona competitivia y curiosa , con grandes cosas a hacer
 ![image](https://github.com/user-attachments/assets/1f1f16c9-1853-473b-9c3e-91721f332f96)
 
 
-## Tabla de Contenido  
+## Tabla de Contenido
+0. [read09](https://github.com/Makubex-Dev18/reading-notes/blob/main/read09.md)
 0. [read08](https://github.com/Makubex-Dev18/reading-notes/blob/main/read08.md)
 0. [read07](https://github.com/Makubex-Dev18/reading-notes/blob/main/read07.md)
 
